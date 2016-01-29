@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "movie-database-6a3d",
+    "project_number": "587099840991",
+    "name": "Movie Database"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587099840991:android:53fd3c236f219731",
+        "client_id": "android:com.senarita.moviesapi",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.senarita.moviesapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587099840991-6t470k603fajqiqkq81e5ojbejg3kfpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senarita.moviesapi",
+            "certificate_hash": "355BAC174632B64BE8BB5AE5C098EC2B64AAAA69"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
