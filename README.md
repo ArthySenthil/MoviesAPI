@@ -1,4 +1,3 @@
-# MoviesAPI
 
 #API Reference
 
